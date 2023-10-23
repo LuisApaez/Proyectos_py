@@ -18,3 +18,7 @@ Una vez que tenemos los insumos listos, actualizaremos los siguientes tableros:
 
 * [Tablero mensual]()
 * [Tablero trimestral](https://app.powerbi.com/view?r=eyJrIjoiYWE3ODk5YmEtNzI2Zi00NGU5LTg4MjMtODllNWRjZjA4YTcxIiwidCI6IjVmMjgyOTEwLTE3NmYtNDU5ZC1hYjdkLWI3NDRhYTZlZmMwNyIsImMiOjR9)
+
+### Creación paso a paso del Proyecto
+
+En este mismo repositorio encontrarás las notebooks guía para ir programando el proyecto, dichas notebooks se encuentran en la carpeta `ProyectoGuiado`.
