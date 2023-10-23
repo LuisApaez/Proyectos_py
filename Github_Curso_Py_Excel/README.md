@@ -22,3 +22,5 @@ Una vez que tenemos los insumos listos, actualizaremos los siguientes tableros:
 ### Creación paso a paso del Proyecto
 
 En este mismo repositorio encontrarás las notebooks guía para ir programando el proyecto, dichas notebooks se encuentran en la carpeta `ProyectoGuiado`.
+
+Además, encontrarás una carpeta con Exceles de ejemplo (carpeta  `02012023`) generados con Python para un día de ventas en las 10 sucursales.
